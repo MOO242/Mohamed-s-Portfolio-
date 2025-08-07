@@ -24,7 +24,7 @@
 </p>
 
 <h2>Projects</h2>
-(https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-.git)
+https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-.git)
 <h2>Skills</h2>
 <ul>
   <li><strong>Programming Languages:</strong> Python, SQL</li>
