@@ -24,8 +24,7 @@
 </p>
 
 <h2>Projects</h2>
-<p>🚧 More updates coming soon! Stay tuned for featured case studies and GitHub repositories covering predictive modelling, data pipelines, and cloud-integrated solutions.</p>
-
+(https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-.git)
 <h2>Skills</h2>
 <ul>
   <li><strong>Programming Languages:</strong> Python, SQL</li>
