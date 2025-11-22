@@ -49,9 +49,6 @@
   <li>🤖 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone">IBM Data Science Professional Certificate Capstone</a>  
     <em>End-to-end workflow: data collection, EDA, ML models (LogReg, SVM, Decision Tree, KNN), and evaluation</em>
   </li>
-  <li>📂 <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>  
-    <em>Curated showcase of projects, dashboards, and machine learning experiments</em>
-  </li>
 </ul>
 
 ---
