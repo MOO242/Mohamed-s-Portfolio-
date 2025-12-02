@@ -9,7 +9,7 @@
 
 <h2>📖 About Me</h2>
 <p>
-  🔍 Data Scientist | 🐍 Python Developer | 🤖 Machine Learning Explorer
+  🔍 Self-taughtData Scientist | 🐍 Python Developer | 🤖 Machine Learning Explorer
 </p>
 
 <p>
