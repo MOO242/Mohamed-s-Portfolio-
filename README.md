@@ -55,8 +55,8 @@
 
 <ul>
 
-  <li>
-    📱 <a href="https://github.com/MOO242/bellabeat-case-study"><strong>Bellabeat Wellness Analysis (Google Data Analytics Capstone)</strong></a><br>
+  <li> 
+    📱 <a href="https://github.com/MOO242/google-data-analytics-capstone"><strong>Bellabeat Wellness Analysis (Google Data Analytics Capstone)</strong></a><br>
     <em>R | tidyverse | ggplot2 | Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations</em>
     <ul>
       <li>Analyzed smart‑device data to uncover trends in activity and sleep behavior</li>
