@@ -61,7 +61,7 @@
   <li>🤖 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone">IBM Data Science Professional Certificate Capstone</a>  
     <em>End-to-end workflow: data collection → EDA → ML models (LogReg, SVM, Decision Tree, KNN) → evaluation</em>
   </li>
-  <li>📱 <a href="https://github.com/MOO242/google-data-analytics-capstone">Bellabeat Case Study – Smart Device Wellness Analysis</a>
+  <li>📱 <a href="https://github.com/MOO242/google-data-analytics-capstone"> Google Data Analytics Professional Certificate! Case Study – Smart Device Wellness Analysis</a>
   <em>Complete R-based analysis: data cleaning, merging, EDA, ggplot2 visualizations, sleep efficiency modeling, insights, and business recommendations (SHARE & ACT phases)</em>
 </li>
 </ul>
