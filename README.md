@@ -75,7 +75,14 @@
     <em>End-to-end workflow: data collection → EDA → ML models (LogReg, SVM, Decision Tree, KNN) → evaluation</em>
   </li>
 
+  <li>
+    🤖 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Forecasting"><strong>Hotel-Price-Prediction-Forecasting</strong></a><br>
+  
+</li>
+
 </ul>
+
+
 
 ---
 
