@@ -85,10 +85,10 @@
     <em>Visual analysis using Python (Pandas, Matplotlib, Seaborn)</em>
   </li>
 
-  <l1>
+  <li>
     🏨 <a href= "https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.2-"><strong>Hotel Price Forecasting V2</strong></a><br>
     *Python • Pandas • Scikit‑Learn • AWS * Revenue Management * Data Auditing • Feature Engineering • Domain‑Driven Imputation • Forecasting Pipeline*
-  </l1>
+  </li>
 
 </ul>
 
