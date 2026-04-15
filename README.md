@@ -90,6 +90,12 @@
     *Python • Pandas • Scikit‑Learn • AWS * Revenue Management * Data Auditing • Feature Engineering • Domain‑Driven Imputation • Forecasting Pipeline*
   </li>
 
+   <li>
+    🏨 <a href= "https://github.com/MOO242/Hotel-Demand-Forecasting-V3"><strong>Hotel Demand Forecasting V3</strong></a><br>
+    *Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Revenue Management • Forecasting Pipeline*
+  </li>
+
+
 </ul>
 
 
