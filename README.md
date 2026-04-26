@@ -58,21 +58,11 @@
   <li>  
     📱 <a href="https://github.com/MOO242/google-data-analytics-capstone"><strong>Bellabeat Wellness Analysis (Google Data Analytics Capstone)</strong></a><br>
     <em>R | tidyverse | ggplot2 | Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations</em>
-    <ul>
-      <li>Analyzed smart‑device data to uncover trends in activity and sleep behavior</li>
-      <li>Created visualizations using ggplot2 and calculated sleep efficiency</li>
-      <li>Delivered insights and SHARE & ACT recommendations for Bellabeat’s marketing strategy</li>
-    </ul>
   </li>
 
   <li>
     🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Forecasting"><strong>Hotel Price Prediction & Demand Forecasting</strong></a><br>
     <em>Python | Pandas | Scikit-Learn | Revenue Management • Data Auditing • Domain-Driven Imputation</em>
-    <ul>
-      <li><strong>Niche Focus:</strong> Developing a predictive model for Average Daily Rate (ADR) using a dataset of 119k+ bookings.</li>
-      <li><strong>Advanced Data Auditing:</strong> Implemented domain-specific logic to handle missing values, identifying 'Null' agents as Direct Bookings to preserve high-value customer data.</li>
-      <li><strong>ML Workflow:</strong> Performing end-to-end processing from raw data audit to feature engineering for occupancy forecasting.</li>
-    </ul>
   </li>
 
   <li>
