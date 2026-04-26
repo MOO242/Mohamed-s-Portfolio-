@@ -97,7 +97,7 @@
 
 
   <li>
-    🏨 <a href= "(https://github.com/MOO242/Hotel-Performance-Optimizer.git)"><strong>Hotel-Performance-Optimizer</strong></a><br>
+    🏨 <a href= "https://github.com/MOO242/Hotel-Performance-Optimizer"><strong>Hotel-Performance-Optimizer</strong></a><br>
     *Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Revenue Management • Forecasting Pipeline*
     A production‑ready hotel performance optimiser using Python, SQL, and Power BI. 
   </li>
