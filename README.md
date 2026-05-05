@@ -1,5 +1,3 @@
-<!-- 🔵 Professional Banner -->
-<img src="YOUR_BANNER_URL_HERE" alt="Header Banner" width="100%" height="200">
 
 <p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
