@@ -1,18 +1,21 @@
-src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" alt="Header" width="100%" height="200">
+<!-- 🔵 Professional Banner -->
+<img src="YOUR_BANNER_URL_HERE" alt="Header Banner" width="100%" height="200">
 
 <p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="230" align="right">
-  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="Coding GIF" width="230" align="right">
+
   <h2>👋 Hi, I'm Mohamed Al Razek</h2>
   🧠 Data Scientist & Python Developer<br>
   📍 Dubai, UAE<br>
   🎓 IBM Data Science Professional Certificate<br>
-  📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
+  📂 Featured Projects: 
+  <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
 </p>
 
 ---
 
-<h1 align="center">👋 Hi, I'm Mohamed Al Razek</h1>
+<h1 align="center">👋 Welcome to My Data Science Portfolio</h1>
 
 <p align="center">
   <a href="https://github.com/MOO242">💻 GitHub</a> |
@@ -28,44 +31,41 @@ src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" a
 </p>
 
 <p>
-  My journey into tech started with curiosity and grew into a disciplined, self-driven pursuit of mastery.
-  With hands-on experience in <strong>data analysis, machine learning, automation, and backend development</strong>,
   I specialize in transforming raw data into meaningful insights and scalable solutions.
+  My work blends <strong>Python, SQL, machine learning, forecasting, and cloud technologies</strong> to build
+  production-ready analytics systems.
 </p>
 
 <p>
-  I work extensively with <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>Matplotlib</strong>, and <strong>Seaborn</strong>
-  to explore and visualize data, while also building RESTful APIs and deploying solutions using
+  I work extensively with <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>,
+  and <strong>Scikit-Learn</strong> to explore and model data, while also building REST APIs and deploying solutions using
   <strong>AWS</strong> and <strong>Google Cloud</strong>.
 </p>
 
 <p>
   📚 I completed the <strong>IBM Data Science Professional Certificate</strong>, gaining practical experience in:
-  <br>• Predictive modelling
-  <br>• Operational & real-time analytics
-  <br>• Data wrangling & visualization
+  <br>• Predictive modelling  
+  <br>• Operational & real-time analytics  
+  <br>• Data wrangling & visualization  
+  <br>• Machine learning pipelines  
 </p>
 
 <p>
   🧠 I thrive at the intersection of clarity, innovation, and impact — whether I’m:
-  <br>• Visualizing trends for decision‑makers
-  <br>• Scraping and structuring external datasets
-  <br>• Optimizing SQL pipelines
-  <br>• Designing recommendation systems
+  <br>• Visualizing trends for decision‑makers  
+  <br>• Scraping and structuring external datasets  
+  <br>• Optimizing SQL pipelines  
+  <br>• Designing forecasting systems  
 </p>
 
 <p>
-  💡 My next goal is to join a data science team where I can apply my skills to help organizations
+  💡 My goal is to join a data science team where I can apply my skills to help organizations
   make smarter, data-driven decisions.
-</p>
-
-<p>
-  🤝 Always open to conversations about emerging technologies, analytics, and career growth.
 </p>
 
 ---
 
-<h2>📊 Projects</h2>
+<h2>📊 Featured Projects</h2>
 
 <ul>
 
@@ -80,8 +80,8 @@ src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" a
   </li>
 
   <li>
-    🤖 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone"><strong>IBM Data Science Professional Certificate Capstone</strong></a><br>
-    <em>End-to-end workflow: data collection → EDA → ML models (LogReg, SVM, Decision Tree, KNN) → evaluation</em>
+    🤖 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone"><strong>IBM Data Science Capstone</strong></a><br>
+    <em>End-to-end workflow: data collection → EDA → ML models → evaluation</em>
   </li>
 
   <li>
@@ -90,25 +90,22 @@ src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" a
   </li>
 
   <li>
-    🏨 <a href= "https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.2-"><strong>Hotel Price Forecasting V2</strong></a><br>
-    *Python • Pandas • Scikit‑Learn • AWS * Revenue Management * Data Auditing • Feature Engineering • Domain‑Driven Imputation • Forecasting Pipeline*
+    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.2-"><strong>Hotel Price Forecasting V2</strong></a><br>
+    <em>Python • Pandas • Scikit‑Learn • AWS • Revenue Management • Feature Engineering • Forecasting Pipeline</em>
   </li>
-
-   <li>
-    🏨 <a href= "https://github.com/MOO242/Hotel-Demand-Forecasting-V3"><strong>Hotel Demand Forecasting V3</strong></a><br>
-    *Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Revenue Management • Forecasting Pipeline*
-  </li>
-
 
   <li>
-    🏨 <a href= "https://github.com/MOO242/Hotel-Performance-Optimizer"><strong>Hotel-Performance-Optimizer</strong></a><br>
-    *Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Revenue Management • Forecasting Pipeline*
-    A production‑ready hotel performance optimiser using Python, SQL, and Power BI. 
+    🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V3"><strong>Hotel Demand Forecasting V3</strong></a><br>
+    <em>Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Forecasting Pipeline</em>
+  </li>
+
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer"><strong>Hotel Performance Optimizer</strong></a><br>
+    <em>Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Revenue Management</em><br>
+    A production‑ready hotel performance optimizer using Python, SQL, and Power BI.
   </li>
 
 </ul>
-
-
 
 ---
 
