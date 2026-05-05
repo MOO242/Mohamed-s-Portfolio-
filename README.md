@@ -1,3 +1,17 @@
+src="https://i.pinimg.com/1200x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" alt="Header" width="100%" height="200">
+
+<p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="230" align="right">
+  
+  <h2>👋 Hi, I'm Mohamed Al Razek</h2>
+  🧠 Data Scientist & Python Developer<br>
+  📍 Dubai, UAE<br>
+  🎓 IBM Data Science Professional Certificate<br>
+  📂 Featured Projects: <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
+</p>
+
+---
+
 <h1 align="center">👋 Hi, I'm Mohamed Al Razek</h1>
 
 <p align="center">
