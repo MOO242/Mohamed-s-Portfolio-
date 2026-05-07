@@ -83,11 +83,6 @@
   </li>
 
   <li>
-    🌍 <a href="https://github.com/MOO242/Top-10-global-economies-by-GDP-Billion-USD-"><strong>Top 10 Global Economies by GDP</strong></a><br>
-    <em>Visual analysis using Python (Pandas, Matplotlib, Seaborn)</em>
-  </li>
-
-  <li>
     🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.2-"><strong>Hotel Price Forecasting V2</strong></a><br>
     <em>Python • Pandas • Scikit‑Learn • AWS • Revenue Management • Feature Engineering • Forecasting Pipeline</em>
   </li>
