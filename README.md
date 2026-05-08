@@ -1,64 +1,42 @@
-
-<p>
+<!-- HERO SECTION -->
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="Coding GIF" width="230" align="right">
-
-  <h2>👋 Hi, I'm Mohamed Al Razek</h2>
-  🧠 Data Scientist & Python Developer<br>
-  📍 Dubai, UAE<br>
-  🎓 IBM Data Science Professional Certificate<br>
-  📂 Featured Projects: 
-  <a href="https://github.com/MOO242/Mohamed-s-Portfolio-">Mohamed's Portfolio</a>
+       alt="Coding GIF" width="260">
 </p>
 
----
-
-<h1 align="center">👋 Welcome to My Data Science Portfolio</h1>
+<h1 align="center">👋 Hi, I'm <strong>Mohamed Al Razek</strong></h1>
 
 <p align="center">
-  <a href="https://github.com/MOO242">💻 GitHub</a> |
+  🧠 Data Scientist & Python Developer • 📍 Dubai, UAE  
+  <br>
+  🎓 IBM Data Science Professional Certificate  
+  <br>
+  <a href="https://github.com/MOO242">💻 GitHub</a> • 
   <a href="https://www.linkedin.com/in/mohamed-al-razek-950a00104/">🔗 LinkedIn</a>
 </p>
 
 ---
 
-<h2>📖 About Me</h2>
+<h2>🚀 About Me</h2>
 
 <p>
-  🔍 Self-taught <strong>Data Scientist</strong> | 🐍 <strong>Python Developer</strong> | 🤖 <strong>Machine Learning Practitioner</strong>
+  I’m a <strong>Data Scientist</strong> and <strong>Python Developer</strong> who builds 
+  production‑ready analytics systems, forecasting pipelines, and data‑driven decision engines.
 </p>
 
 <p>
-  I specialize in transforming raw data into meaningful insights and scalable solutions.
-  My work blends <strong>Python, SQL, machine learning, forecasting, and cloud technologies</strong> to build
-  production-ready analytics systems.
+  I specialize in:
+  <br>• Machine learning & forecasting  
+  <br>• SQL optimization & data modeling  
+  <br>• Cloud deployment (AWS, GCP)  
+  <br>• Automated pipelines (Airflow, dbt)  
+  <br>• API development (FastAPI)  
+  <br>• Dashboarding (Power BI)  
 </p>
 
 <p>
-  I work extensively with <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>,
-  and <strong>Scikit-Learn</strong> to explore and model data, while also building REST APIs and deploying solutions using
-  <strong>AWS</strong> and <strong>Google Cloud</strong>.
-</p>
-
-<p>
-  📚 I completed the <strong>IBM Data Science Professional Certificate</strong>, gaining practical experience in:
-  <br>• Predictive modelling  
-  <br>• Operational & real-time analytics  
-  <br>• Data wrangling & visualization  
-  <br>• Machine learning pipelines  
-</p>
-
-<p>
-  🧠 I thrive at the intersection of clarity, innovation, and impact — whether I’m:
-  <br>• Visualizing trends for decision‑makers  
-  <br>• Scraping and structuring external datasets  
-  <br>• Optimizing SQL pipelines  
-  <br>• Designing forecasting systems  
-</p>
-
-<p>
-  💡 My goal is to join a data science team where I can apply my skills to help organizations
-  make smarter, data-driven decisions.
+  I thrive at the intersection of <strong>clarity, engineering, and commercial impact</strong> — 
+  transforming raw data into insights that drive smarter decisions.
 </p>
 
 ---
@@ -67,60 +45,68 @@
 
 <ul>
 
-  <li>  
-    📱 <a href="https://github.com/MOO242/google-data-analytics-capstone"><strong>Bellabeat Wellness Analysis (Google Data Analytics Capstone)</strong></a><br>
-    <em>R | tidyverse | ggplot2 | Data Cleaning • EDA • Sleep Efficiency • Insights • Business Recommendations</em>
-  </li>
-
+  <!-- PROJECT 1 -->
   <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Forecasting-V.1"><strong>Hotel Price Prediction & Demand Forecasting</strong></a><br>
-    <em>Python | Pandas | Scikit-Learn | Revenue Management • Data Auditing • Domain-Driven Imputation</em>
+    📱 <a href="https://github.com/MOO242/google-data-analytics-capstone">
+      <strong>Bellabeat Wellness Analysis (Google Capstone)</strong>
+    </a><br>
+    <em>R • tidyverse • ggplot2 • EDA • Sleep Efficiency • Business Insights</em>
   </li>
 
+  <!-- PROJECT 2 -->
   <li>
-    🤖 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone"><strong>IBM Data Science Capstone</strong></a><br>
-    <em>End-to-end workflow: data collection → EDA → ML models → evaluation</em>
+    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Forecasting-V.1">
+      <strong>Hotel Price Prediction & Demand Forecasting</strong>
+    </a><br>
+    <em>Python • Pandas • Scikit‑Learn • Revenue Management • Data Auditing</em>
   </li>
 
+  <!-- PROJECT 3 -->
   <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V.2"><strong>Hotel Demand Forecasting V3</strong></a><br>
-    <em>Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Forecasting Pipeline</em>
+    🤖 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone">
+      <strong>IBM Data Science Capstone</strong>
+    </a><br>
+    <em>End‑to‑end ML workflow: data → EDA → modeling → evaluation</em>
   </li>
 
+  <!-- PROJECT 4 -->
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V.2">
+      <strong>Hotel Demand Forecasting V3</strong>
+    </a><br>
+    <em>Python • SQL • Power BI • Forecasting Pipeline</em>
+  </li>
 
+  <!-- PROJECT 5 -->
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-No-Deploy">
+      <strong>Hotel Performance Optimizer – Phase 1 (No‑Deploy)</strong>
+    </a><br>
 
+    <em>
+      Airflow • dbt • Python • SQL • Power BI • MLflow • FastAPI • Streamlit
+    </em><br>
 
-<li>
-  🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1- NO Deploy">
-    <strong>Hotel Performance Optimizer – Phase 1 (No‑Deploy)</strong>
-  </a><br>
+    A modular analytics engine with automated pipelines, dbt transformations, MLflow tracking, 
+    and a full diagnostic + forecasting architecture.<br>
 
-  <em>
-    Airflow • dbt • Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • MLflow • FastAPI • Streamlit • Revenue Management
-  </em><br>
+    <strong>Architecture:</strong> ELT → dbt → ML pipeline → forecasting → prescriptive engine → dashboards
+  </li>
 
-  A production‑ready hotel performance optimizer featuring automated pipelines (Airflow), modular transformations (dbt), MLflow tracking, and a full analytics + forecasting architecture.<br>
+  <!-- PROJECT 6 -->
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-2-Deploy-on-AWS">
+      <strong>Hotel Performance Optimizer – Phase 2 (Deploy on AWS)</strong>
+    </a> — <em>Coming soon • Deployment phase</em><br>
 
-  <strong>Architecture Diagram Included:</strong> End‑to‑end ELT → dbt semantic layer → ML pipeline → forecasting → prescriptive engine → dashboards.
-</li>
+    <em>
+      Airflow • dbt • AWS • Python • SQL • MLflow • FastAPI • Streamlit
+    </em><br>
 
+    Cloud‑deployed version with automated retraining, model serving, and prescriptive decision logic.<br>
 
-<li>
-  🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-2-Deploy-on-AWS">
-    <strong>Hotel Performance Optimizer – Phase 2 (Deploy on AWS)</strong>
-  </a> — <em>Coming soon • Deployment phase</em><br>
-
-  <em>
-    Airflow • dbt • AWS • Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • MLflow • FastAPI • Streamlit • Revenue Management
-  </em><br>
-
-  A production‑ready hotel performance optimizer featuring automated pipelines (Airflow), modular transformations (dbt), MLflow tracking, and a full analytics + forecasting architecture.<br>
-
-  <strong>Architecture Diagram Included:</strong> End‑to‑end ELT → dbt semantic layer → ML pipeline → forecasting → prescriptive engine → dashboards → Deploy
-</li>
-
-
-
+    <strong>Architecture:</strong> ELT → dbt → ML pipeline → forecasting → prescriptive engine → dashboards → Deploy
+  </li>
 
 </ul>
 
@@ -128,7 +114,7 @@
 
 <h2>🧰 Skills</h2>
 
-<strong>Core Skills</strong><br>
+<strong>Languages</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
@@ -143,12 +129,13 @@
 <strong>Cloud & Tools</strong><br>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white">
-<img src="https://img.shields.io/badge/REST-02569B?logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Hadoop-FFCC00?logo=apache-hadoop&logoColor=black">
-<img src="https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white">
+<img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white">
+<img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white">
 
 <strong>Other</strong><br>
-Web Scraping • Data Preprocessing • Data Mining • Reproducible Workflows
+Web Scraping • Data Pipelines • Feature Engineering • Reproducible Workflows
 
 ---
 
@@ -163,5 +150,5 @@ Web Scraping • Data Preprocessing • Data Mining • Reproducible Workflows
 ---
 
 <p align="center">
-  ✨ Persistent, strategic, and a problem-solver — empowering organizations to unlock insights and drive smarter decisions.
+  ✨ Persistent, strategic, and impact‑driven — building systems that turn data into decisions.
 </p>
