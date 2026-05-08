@@ -70,8 +70,8 @@
 
   <!-- PROJECT 4 -->
   <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V.2">
-      <strong>Hotel Demand Forecasting V3</strong>
+    🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V2">
+      <strong>Hotel Demand Forecasting V2</strong>
     </a><br>
     <em>Python • SQL • Power BI • Forecasting Pipeline</em>
   </li>
