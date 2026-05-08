@@ -113,28 +113,58 @@
 
 <h2>🧰 Skills</h2>
 
+<!-- LANGUAGES -->
 <strong>Languages</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
+<br><br>
 
-<strong>Machine Learning & Visualization</strong><br>
+<!-- DATA & ML -->
+<strong>Data Science & Machine Learning</strong><br>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+<br><br>
+
+<!-- VISUALIZATION -->
+<strong>Visualization</strong><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white">
 <img src="https://img.shields.io/badge/Seaborn-0099CC?logo=seaborn&logoColor=white">
+<br><br>
 
-<strong>Cloud & Tools</strong><br>
+<!-- CLOUD & DEVOPS -->
+<strong>Cloud & DevOps</strong><br>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+<br><br>
+
+<!-- DATA ENGINEERING -->
+<strong>Data Engineering</strong><br>
 <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white">
 <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white">
-<img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white">
+<img src="https://img.shields.io/badge/ETL/ELT-4A90E2?logo=data&logoColor=white">
+<br><br>
+
+<!-- BACKEND -->
+<strong>Backend & APIs</strong><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white">
+<br><br>
 
 <strong>Other</strong><br>
-Web Scraping • Data Pipelines • Feature Engineering • Reproducible Workflows
+Web Scraping • Feature Engineering • Data Pipelines • Forecasting • Reproducible Workflows
+
 
 ---
 
