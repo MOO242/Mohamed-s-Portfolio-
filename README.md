@@ -91,7 +91,7 @@
 
 
 <li>
-  🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-2-Deploy-on-AWS">
+  🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1- NO Deploy">
     <strong>Hotel Performance Optimizer – Phase 1 (No‑Deploy)</strong>
   </a><br>
 
