@@ -73,7 +73,7 @@
   </li>
 
   <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Forecasting"><strong>Hotel Price Prediction & Demand Forecasting</strong></a><br>
+    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Forecasting-V.1"><strong>Hotel Price Prediction & Demand Forecasting</strong></a><br>
     <em>Python | Pandas | Scikit-Learn | Revenue Management • Data Auditing • Domain-Driven Imputation</em>
   </li>
 
@@ -83,20 +83,39 @@
   </li>
 
   <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.2-"><strong>Hotel Price Forecasting V2</strong></a><br>
-    <em>Python • Pandas • Scikit‑Learn • AWS • Revenue Management • Feature Engineering • Forecasting Pipeline</em>
-  </li>
-
-  <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V3"><strong>Hotel Demand Forecasting V3</strong></a><br>
+    🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V.2"><strong>Hotel Demand Forecasting V3</strong></a><br>
     <em>Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Forecasting Pipeline</em>
   </li>
 
-  <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer"><strong>Hotel Performance Optimizer</strong></a><br>
-    <em>Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • Revenue Management</em><br>
-    A production‑ready hotel performance optimizer using Python, SQL, and Power BI.
-  </li>
+
+<li>
+  🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-2-Deploy-on-AWS">
+    <strong>Hotel Performance Optimiser – Phase 1 (No- Deploy)</strong>
+  <em>
+    Airflow • dbt • Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • MLflow • FastAPI • Streamlit • Revenue Management
+  </em><br>
+
+  A production‑ready hotel performance optimizer featuring automated pipelines (Airflow), modular transformations (dbt), MLflow tracking, and a full analytics + forecasting architecture.<br>
+
+  <strong>Architecture Diagram Included:</strong> End‑to‑end ELT → dbt semantic layer → ML pipeline → forecasting → prescriptive engine → dashboards.
+</li>
+
+
+<li>
+  🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-2-Deploy-on-AWS">
+    <strong>Hotel Performance Optimizer – Phase 2 (Deploy on AWS)</strong>
+  </a> — <em>Coming soon • Deployment phase</em><br>
+
+  <em>
+    Airflow • dbt • AWS • Python • SQL • Power BI • Pandas • Numpy • Scikit‑Learn • MLflow • FastAPI • Streamlit • Revenue Management
+  </em><br>
+
+  A production‑ready hotel performance optimizer featuring automated pipelines (Airflow), modular transformations (dbt), MLflow tracking, and a full analytics + forecasting architecture.<br>
+
+  <strong>Architecture Diagram Included:</strong> End‑to‑end ELT → dbt semantic layer → ML pipeline → forecasting → prescriptive engine → dashboards  → Deploy
+</li>
+
+
 
 </ul>
 
