@@ -54,7 +54,7 @@
 
   <!-- PROJECT 2 -->
   <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Forecasting-V.1">
+    🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V.1">
       <strong>Hotel Price Prediction & Demand Forecasting</strong>
     </a><br>
     <em>Python • Pandas • Scikit‑Learn • Revenue Management • Data Auditing</em>
