@@ -1,7 +1,8 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img width="1400" height="350" alt="1777912235984" src="https://github.com/user-attachments/assets/fa86cc9f-a4aa-4449-ae4e-53515a059d1e" />
+  <img width="1400" height="350" alt="1778365000636" src="https://github.com/user-attachments/assets/fa86cc9f-a4aa-4449-ae4e-53515a059d1e" />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <strong>Mohamed Al Razek</strong></h1>
 
