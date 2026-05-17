@@ -80,7 +80,8 @@
   <!-- PROJECT 5 -->
   <li>
     🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-No-Deploy">
-      <strong>Hotel Performance Optimizer – Phase 1 (Deploy)</strong>
+      
+      <strong>Hotel-Performance-Optimizer-Phase-1-Deploy-on-Hugging-Face</strong>
     </a><br>
 
     <em>
