@@ -80,32 +80,17 @@
   <!-- PROJECT 5 -->
   <li>
     🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-No-Deploy">
-      <strong>Hotel Performance Optimizer – Phase 1 (No‑Deploy)</strong>
+      <strong>Hotel Performance Optimizer – Phase 1 (Deploy)</strong>
     </a><br>
 
     <em>
-      Airflow • dbt • Python • SQL • Power BI • MLflow • FastAPI • Streamlit
+      Airflow • dbt • Python • SQL • Power BI • MLflow • FastAPI • Streamlit • Docker • Hugging Face
     </em><br>
 
     A modular analytics engine with automated pipelines, dbt transformations, MLflow tracking, 
     and a full diagnostic + forecasting architecture.<br>
 
     <strong>Architecture:</strong> ELT → dbt → ML pipeline → forecasting → prescriptive engine → dashboards
-  </li>
-
-  <!-- PROJECT 6 -->
-  <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-2-Deploy-on-AWS">
-      <strong>Hotel Performance Optimizer – Phase 2 (Deploy on AWS)</strong>
-    </a> — <em>Coming soon • Deployment phase</em><br>
-
-    <em>
-      Airflow • dbt • AWS • Python • SQL • MLflow • FastAPI • Streamlit
-    </em><br>
-
-    Cloud‑deployed version with automated retraining, model serving, and prescriptive decision logic.<br>
-
-    <strong>Architecture:</strong> ELT → dbt → ML pipeline → forecasting → prescriptive engine → dashboards → Deploy
   </li>
 
 </ul>
