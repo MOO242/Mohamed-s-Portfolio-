@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img width="100%" src=<img width="704" height="176" alt="1779354620213" src="https://github.com/user-attachments/assets/56c9a154-cf07-42cf-9032-cb36491ece64" />
+  <img width="100%" src=<img width="704" height="176" alt="1779354620213" src=https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-Deploy-on-Hugging-Face/blob/main/1779354620213.jpg />
  alt="Portfolio Banner">
 </p>
 
