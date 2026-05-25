@@ -1,8 +1,12 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img width="100%" src=<img width="704" height="176" alt="1779354620213" src=https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-Deploy-on-Hugging-Face/blob/main/1779354620213.jpg />
- alt="Portfolio Banner">
+  <img 
+    width="100%" 
+    src="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-Deploy-on-Hugging-Face/blob/main/1779354620213.jpg?raw=true" 
+    alt="Portfolio Banner"
+  />
 </p>
+
 
 
 <h1 align="center">👋 Hi, I'm <strong>Mohamed Al Razek</strong></h1>
