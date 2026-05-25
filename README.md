@@ -24,7 +24,7 @@
 <h2>🚀 About Me</h2>
 
 <p>
-  Hospitality operations professional (7+ years at Marriott) transitioning into
+  Hospitality operations professional (9+ years HotelOps) transitioning into
   <strong>Business Intelligence, Reporting & Analytics</strong>. I build production‑ready
   dashboards, forecasting pipelines, and data‑driven decision tools — grounded in real
   commercial KPIs like RevPAR, ADR, Channel Mix, and Segmentation.
