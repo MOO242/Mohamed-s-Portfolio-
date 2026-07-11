@@ -61,10 +61,15 @@
     <strong>Stack:</strong> Python • scikit‑learn • FastAPI • Streamlit • Docker • MLflow • Power BI • YAML config architecture<br>
     🔗 <a href="https://huggingface.co/spaces/MoAlrazek/HotelPerformanceOptimizer">Live Demo</a>
   </li>
-
+ <!-- PROJECT 2 -->
+  <li>
+    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2">
+      <strong>Hotel Performance Optimizer (HPOv2) — Full Stack</strong>
+  </li>  
+  
   <br>
 
-  <!-- PROJECT 2 -->
+  <!-- PROJECT 3 -->
   <li>
     🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V2">
       <strong>Hotel Demand Forecasting V2</strong>
@@ -75,7 +80,7 @@
 
   <br>
 
-  <!-- PROJECT 3 -->
+  <!-- PROJECT 4 -->
   <li>
     🏨 <a href="https://github.com/MOO242/Hotel-Price-Prediction-Demand-Forecasting-V1">
       <strong>Hotel Price Prediction & Demand Forecasting V1</strong>
@@ -86,7 +91,7 @@
 
   <br>
 
-  <!-- PROJECT 4 -->
+  <!-- PROJECT 5 -->
   <li>
     📱 <a href="https://github.com/MOO242/google-data-analytics-capstone">
       <strong>Bellabeat Wellness Analysis (Google Capstone)</strong>
@@ -97,7 +102,7 @@
 
   <br>
 
-  <!-- PROJECT 5 -->
+  <!-- PROJECT 6 -->
   <li>
     🤖 <a href="https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone">
       <strong>IBM Data Science Capstone</strong>
