@@ -2,11 +2,11 @@
 <p align="center">
   <img 
     width="100%" 
-    src="https://https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1783202389145.jpg?raw=true" 
+    src="https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1783202389145.jpg?raw=true" 
     alt="Portfolio Banner"
-
-    
   />
+</p>
+
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Mohamed Al Razek</strong></h1>
