@@ -2,8 +2,10 @@
 <p align="center">
   <img 
     width="100%" 
-    src="https://github.com/MOO242/Hotel-Performance-Optimizer-Phase-1-Deploy-on-Hugging-Face/blob/main/1779354620213.jpg?raw=true" 
+    src="https://https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1783202389145.jpg?raw=true" 
     alt="Portfolio Banner"
+
+    
   />
 </p>
 
