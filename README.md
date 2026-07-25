@@ -65,11 +65,13 @@
   </li>
  <!-- PROJECT 2 -->
   <li>
-    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2">
-      <strong>Hotel Performance Optimizer (HPOv2) — Full Stack</strong>
+    🏨 <a href="https://github.com/MOO242/Hotel-Performance-Optimizer-V2"
+     target="_blank"
+     rel="noopener noreferrer">
+    <strong>Hotel Performance Optimizer V2 (HPOv2) – Commercial Analytics & Revenue Optimization Platform</strong>
+  </a><br>
+  End-to-end hospitality analytics project designed to help hotel leadership identify revenue opportunities, understand performance drivers, forecast future demand, and optimize commercial strategy through Snowflake, dbt, SQL, Python, and Power BI.
   </li>  
-  
-  <br>
 
   <!-- PROJECT 3 -->
   <li>
