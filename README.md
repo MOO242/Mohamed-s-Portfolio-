@@ -73,6 +73,15 @@
   End-to-end hospitality analytics project designed to help hotel leadership identify revenue opportunities, understand performance drivers, forecast future demand, and optimize commercial strategy through Snowflake, dbt, SQL, Python, and Power BI.
   </li>  
 
+  <!-- PROJECT: DATA WAREHOUSE -->
+  <li>
+    🗄️ <a href="https://github.com/MOO242/Commercial-Analytics-Data-Warehouse-Snowflake-SQL">
+      <strong>Commercial Analytics Data Warehouse</strong>
+    </a><br>
+    <em>Medallion architecture (Bronze → Silver → Gold) consolidating ERP and CRM sources into a star schema, with SQL analytics on customer behavior, product performance, and sales trends.</em><br>
+    <strong>Stack:</strong> SQL • ETL • Data Modeling • Star Schema • Medallion Architecture
+  </li>
+
   <!-- PROJECT 3 -->
   <li>
     🏨 <a href="https://github.com/MOO242/Hotel-Demand-Forecasting-V2">
