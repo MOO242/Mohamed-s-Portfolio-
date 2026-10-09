@@ -1,4 +1,4 @@
-<img width="12447" height="2268" alt="image" src="https://github.com/user-attachments/assets/e10c65d4-0380-42ee-8d6f-ce9a0ee6bf32" /><img width="12447" height="2268" alt="image" src="https://github.com/user-attachments/assets/b5eda1e1-b6b4-408b-bc69-30b841687de6" /><!-- HERO SECTION -->
+-- HERO SECTION -->
 <p align="center">
   <img 
     width="100%" 
