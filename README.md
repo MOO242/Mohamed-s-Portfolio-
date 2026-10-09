@@ -1,4 +1,3 @@
--- HERO SECTION -->
 <p align="center">
   <img 
     width="100%" 
