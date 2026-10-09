@@ -78,7 +78,7 @@
     🗄️ <a href="https://github.com/MOO242/Commercial-Analytics-Data-Warehouse-Snowflake-SQL">
       <strong>Commercial Analytics Data Warehouse | Snowflake + SQL</strong>
     </a><br>
-    <em>End-to-end Snowflake warehouse built on the Medallion architecture (Bronze → Silver → Gold). It integrates CRM and ERP data into a star schema using stored procedures and quality checks at every layer. SQL analytics then cover sales trends, YoY performance, part-to-whole contribution, and customer and product segmentation, delivered as BI-ready reporting views.</em><br>
+    <em>End-to-end Snowflake warehouse built on the Medallion architecture (Bronze → Silver → Gold). It integrates CRM and ERP data into a star schema using stored procedures and quality checks at every layer. SQL analytics then cover sales trends, YoY performance,             part-to-whole contribution, and customer and product segmentation, delivered as BI-ready reporting views.</em><br>
     <strong>Stack:</strong> Snowflake • SQL • Stored Procedures • Window Functions • Data Modeling • Star Schema • Data Quality • Medallion Architecture
   </li>
 
