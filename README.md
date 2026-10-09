@@ -74,7 +74,6 @@
   </li>  
 
   <!-- PROJECT: DATA WAREHOUSE -->
-  <!-- PROJECT: DATA WAREHOUSE -->
   <li>
     🗄️ <a href="https://github.com/MOO242/Commercial-Analytics-Data-Warehouse-Snowflake-SQL">
       <strong>Commercial Analytics Data Warehouse | Snowflake + SQL</strong>
