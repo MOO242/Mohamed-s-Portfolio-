@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     width="100%" 
-    src="https://github.com/MOO242/Hotel-Performance-Optimizer/blob/main/1783202389145.jpg?raw=true" 
+     src="https://github.com/MOO242/Commercial-Analytics-Data-Warehouse-Snowflake-SQL/blob/main/linkedin_banner_10plus.jpg" 
     alt="Portfolio Banner"
   />
 </p>
